@@ -1,0 +1,13 @@
+{% if not g.htmx %}
+    {% extends 'layout/base.html' %}
+{% endif %} 
+
+{% block main %}
+
+<form action="post">
+    <label for="email">Email</label>
+    <input type="email" name="" id="email">
+    <input type="submit" value="login">
+</form>
+    
+{% endblock main %}

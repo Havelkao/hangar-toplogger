@@ -1,0 +1,42 @@
+{% if not g.htmx %} {% extends 'layout/base.html' %} {% endif %} {% block main
+%}
+
+<h1>Statistics</h1>
+
+<div id="stats">
+
+    <div id="cards">
+        {% for card in cards %}
+        <div class="metric-card shadow">
+            <h1 class="value">{{ card.value | round(2) }}</h1>
+            <div class="label">{{ card.label}}</div>
+        </div>
+        {% endfor %}
+    </div>
+
+    
+
+    {% for fig in figs %}
+    <img src="data:image/png;base64,{{ fig }}" class="shadow" />
+    {% endfor %}
+
+    {% for setter in setters %}
+    <img src="data:image/png;base64,{{ setter }}" class="shadow" />
+    {% endfor %}
+
+    <div id="notes" class="shadow">
+        <h3>Notes:</h3>
+            <p>The sample represents routes that:
+                <ul>
+                    <li>have a lifespan longer then 14 days</li>
+                    <li>have a specified setter</li>
+                    <li>are not located in 'kids zone'</li>
+                </ul>
+            </p>
+            <p>Accuracy measures given grade minus average community grade, thus positive values represent overgrading and vice versa.</p>
+            <p>Baseline accuracy value is 0.17 and represents half a grade, eg. 5A-5A⁺</p>
+        
+    </div>
+</div>
+
+{% endblock main %}

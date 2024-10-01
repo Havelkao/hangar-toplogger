@@ -1,0 +1,30 @@
+{% block sidenav %}
+
+<div id="logo"></div>
+
+<div id="list">
+    <div class="list-item" hx-get="/" hx-target="main" hx-push-url="true">
+        <img
+            src="{{ url_for('static', filename='icons/home.svg') }}"
+            class="icon" />
+        <div class="d-sm-none">Statistics</div>
+    </div>
+    <div
+        class="list-item"
+        hx-get="/floor_plan"
+        hx-target="main"
+        hx-push-url="true">
+        <img
+            src="{{ url_for('static', filename='icons/stairs.svg') }}"
+            class="icon" />
+        <div class="d-sm-none">Floor Plan</div>
+    </div>
+    <div class="list-item" hx-get="/admin" hx-target="main" hx-push-url="true">
+        <img
+            src="{{ url_for('static', filename='icons/lock.svg') }}"
+            class="icon" />
+        <div class="d-sm-none">Admin</div>
+    </div>
+</div>
+
+{% endblock sidenav %}

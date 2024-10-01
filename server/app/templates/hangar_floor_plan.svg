@@ -1,0 +1,84 @@
+
+<g id="zoom_layer">
+  <path id="background" d="M 0,0 768.03162,7.4741857e-6 1507.6527,376.91318 1875,746.25021 V 3706.9583 H 0 Z" fill="#fff" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  <path id="background-mats" d="m799.40176 1284.5269-410.13134 685.6885 526.13951 195.9735 91.32387-594.1926z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  <path id="background-upper" d="m1145.4724 626.38894 117.656 167.29368 101.5245 58.61519h510.3471v-72.40651z" fill="#f1f1f1" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  <path id="background-training" d="m-143.85204 2598.6174v1108.3409h-378.52309v-1108.3409z" fill="#f8f8f8" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="square" stroke-width="4.6875" style="font-variation-settings:normal"/>
+  <g id="map-region-1" class="map-region">
+    <path class="map-wall-center" d="m186.43219 1079.8152-3.35577 4.1016 9.69447 1.1185z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m56.250001 2008.6253h166.29923l53.51104-115.0426v-478.2643l148.20381-129.2679 50.66546-187.0361-14.20527-118.85074-105.119-178.98641-29.83107-94.7018-30.77809-264.21803-120.27128-345.18807v-97.069343l-148.20832 84.284597v1872.7282z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m93.080358 132.58928-34.82143 103.79465v58.92857l48.883932 78.34822 33.48214 50.89286 32.8125 313.39286 39.50893 125.22322 115.90558 194.88614-39.0645 145.6041-157.44174 140.1587 7.33939 405.3237-11.83772 104.172-71.597439 142.891-1e-6 43.4032c-18.75 16.2462-37.5 13.2042-56.25-0.013v-43.3904l26.516505-28.5386v-1909.4251l138.21564-58.241401 44.07935-7.4741859e-6c15.434 21.598659 14.86841 41.864019 0 60.937477l-44.07935 2.4e-5 -56.34598 17.134764z" fill="#9f9f9f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m0 1996.2053h56.250001v-54.241l29.464286-56.9196-14.0625-182.8125-9.375001-212.9464v-110.4911l27.455358-217.634 22.767856-38.1696-30.133927-88.3929-20.758929-259.15176v-284.59821l45.535716-117.18751-48.883931-78.34822v-117.85714l12.723215-22.76786 93.750006-93.749999v-60.937494h-164.73215z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  </g>
+  <g id="map-region-2" class="map-region">
+    <path class="map-wall-center" d="m962.86781 515.97271-3.95484 4.48213 10.01887 2.63655z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m234.38696 60.937477v27.608708l43.56283 126.90042 201.24133 168.56921 4.98082 17.83567 171.92936 138.40836 299.25768 196.97975 143.83212 259.40172 12.6081 7.19779h83.3375l109.8541 56.8211h284.1055v-153.96376l-38.2035-26.11607h-247.7678l-248.238-325.14076-310.79251-156.16505-276.01413-369.47545h-164.0625z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m290.77355 60.937477 110.7621 67.383463 45.93036 16.09931 243.38364 246.46144 44.75304 59.11832 253.12503 126.22768 100.53108 66.90904-21.8067-81.38347-323.35761-162.4787-276.01413-369.47545-176.80867-3.751746-42.83419-26.047355-39.626 1e-13v60.93747z" fill="#9f9f9f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m248.4375 7.4741859e-6v60.93747h195.53573l46.20535 42.857173 234.29021 319.5224 316.82591 163.29011 45.5356 52.23213 136.6072 241.74108 117.1875 26.11607h277.6594v-54.39863h-253.6315l-101.5245-58.61519-128.6008-182.85599-59.6621-71.02635-310.62195-150.57587-193.45599-271.42831 19.83745-56.858623c18.1137-20.31249 17.6802-40.62498 0-60.93747l-103.79465-7.474186e-6z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  </g>
+  <g id="map-region-3" class="map-region">
+    <path class="map-wall-center" d="m1221.2497 360.67995-3.6912 8.96427h19.5104z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m590.62501 60.937477-19.83745 56.858623 193.45599 271.42831 310.62195 150.57586 70.6069 86.58867 329.5791 164.82928h67.4885l71.27 61.07959 149.5142 27.19931 77.8801-1.02863v-98.57719l-14.1871-52.94713-327.3479-331.46176-731.37882-367.00768h-141.84635z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m630.88654 60.937477 91.72463 82.242443 133.48545 67.11559-2.98291 84.26736 127.51963 80.5387 525.36366 261.88875 92.8065-3.69116 131.3002 127.08167 50.5212-48.9393 0.1006-29.10256-281.0562-286.85656-731.37882-367.00768h-141.84635z" fill="#9f9f9f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m590.62501 0v60.937477h178.79465l722.13374 361.43256 325.9832 325.98319v31.53807h57.4634v-33.64109l-367.3473-369.33703-739.62108-376.91317z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  </g>
+  <g id="map-region-4" class="map-region">
+    <path class="map-wall-center" d="m1077.2941 1479.1042-10.5462 17.4012 25.8381-1.0546z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m1340.0746 1261.0273v-92.5086h-129.3712l-411.30164 116.0082 99.13426 474.5788 16.87391 407.0832h108.09857v-90.0802l70.1321-614.4058h245.1991l13.7101-173.4849z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m1323.7 1388.9537-184.7107-31.6581-105.4619 3.1639-28.4748 8.4369-54.84019 167.6846 45.34865 204.5962 12.65544 164.5207-9.49156 39.0209v131.5639l9.50036-0.174 84.3607-64.4216v-537.3287h257.3273z" fill="#9f9f9f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m1378.8525 1491.2323v-230.205h-38.7779l-23.8633 186.4322-238.6332-7.4573-47.7267 23.8634 41.0151 158.8402 8.9487 137.2141-11.9316 149.8914-5.9658 54.4382-53.6925 111.8593h111.7808v-584.8765z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  </g>
+  <g id="map-region-5" class="map-region">
+    <path class="map-wall-center" d="m720.04162 787.80095-3.95482 12.91908 12.51226-3.48831z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m479.19112 384.01581 185.61554 148.20832 299.25768 196.97975 147.73486 274.63522-115.37057 124.5091-158.03576 19.4196-243.75001-139.9553-212.27678-296.65177-12.72322-163.39287z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m669.54173 657.70402-39.30123-59.18863-56.34758-25.56948-32.67212-2.36755-16.57281 21.78142-0.94702 23.20193 5.68211 39.77476 65.81774 116.48322 105.11901 124.53287 86.65215 67.71178 31.7251 13.25822 35.98669 15.15235 71.49985-8.04966 32.67216-35.03972-7.10269-35.98665-23.67542-36.46019-74.81444-58.24161-142.99971-24.62247z" fill="#9f9f9f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m589.04521 629.29348 39.30125 4.73509 41.19528 23.67545 35.51318 50.19196 29.09588 33.61913 36.55726 32.616 39.46587 21.83754 43.08931 22.72843 26.51651 35.51318 10.4172 50.66546-16.57282 18.94036-52.08599 5.2086-53.50652-24.14896-58.71512-46.87739-72.92039-84.75811-51.13897-81.91706-7.57615-37.40722z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  </g>
+  <g id="map-region-6" class="map-region">
+    <path class="map-wall-center" d="m640.58101 1682.3641-7.08443 10.813 18.64323-1.4914z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m799.40176 1284.5269-205.05594-29.4654-152.87439 110.3679-67.86132 85.7588-43.99799 149.8915v523.5015l49.21809 67.8614 319.17192 95.4533 217.4078-121.707-16.87391-407.0832z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m481.74079 1622.7058v443.7086l105.14775 38.0322 87.996 21.6261 79.04724-44.7437 26.10051-229.6845 9.69448-181.9577-17.15177-91.7248-26.10051-86.5045-56.67538-70.0985-67.11559-6.7115-71.58996 57.4211-39.52362 52.201z" fill="#9f9f9f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m535.06039 1796.0877 92.84323 9.3217 115.96083-41.7609 6.71156-88.7417-16.03317-43.6251-88.74173-75.3187-44.37086 7.8302-40.64222 38.7779-23.86332 77.183z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  </g>
+  <g id="map-region-7" class="map-region">
+    <path class="map-wall-center" d="m19.388947 2957.8994v11.2197l19.631982-7.0845z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m414.02871 2631.2763 37.13719 63.7875-70.84423 81.2844-81.28444 12.6774-61.89548-41.7608-38.03217 51.4553 45.48946 90.2331-0.74574 114.8423-5.22009 41.7608-55.92967 49.2181v612.1838h-143.68261l-18.886252-38.7184v-1063.4092h354.96689z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m39.15076 3112.6382 43.888892-49.0418 25.091018-69.5291 0.74573-85.013-28.600017-75.2164-41.255454-52.0147-19.631981 45.9466v260.2593z" fill="#9f9f9f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m0 3706.9583h39.15076v-693.3824l17.09924-29.6168v-42.0974l-17.229071-59.586v-133.4094l69.092771-118.697 80.20821-13.3397 65.9694 1.4668 89.73314 51.7568h55.27482l14.72944-38.7769-1.67239-40.0756h-412.35632z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  </g>
+  <g id="map-region-8" class="map-region">
+    <path class="map-wall-center" d="m373.61011 2311.0135-3.72864 13.4231 25.46367-11.2375z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m139.73711 2316.4728 167.06306 260.5852h102.43304l-74.26479-277.1599h-179.11111z" fill="#f1f1f1" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m343.319 2239.7964h98.15243l100.48693 100.4869v250.9174h-129.60204l-69.03732-312.6271z" fill="#fff" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m139.73711 2316.4728 170.8484 185.0853v71.7146l-7.57068 7.5707h-280.64297v-279.1515l33.878137-235.8662h165.86352l121.20548 173.9707v38.7772z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m0 2039.5957h56.25v39.1238l-17.229071 26.8288-39.020929-26.8288z" fill="#9f9f9f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m382.30042 2573.2727c4.99275 8.6724 12.03797 17.55 0 24.5193h-382.30042v-281.3192c19.45938-10.6407 38.544582-15.6687 56.25 0v91.7505l18.099976 105.4632 41.658324 59.5862z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m0 2078.7195h56.25v135.3497l43.93799 64.5044h291.6925l23.4906 15.661 22.74537 96.5717-11.93299 98.0639-15.65918 65.2515 1.83289 43.6703h-30.05676v-35.0662l-33.22083-15.2911v-74.8791l-14.23828-14.2365 8.4375-79.0979-26.36535-62.7484h-316.91346z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  </g>
+  <g id="map-region-9" class="map-region">
+    <path class="map-wall-center" d="m-428.24154 2963.2193-7.95495 10.6066 18.56155 1.3259z" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m-227.04757 2616.5161v821.2964h-92.63993v178.125h175.83546v91.0208h-378.52309v-115.2978l18.93763-985.6512h270.46875z" fill="#dcdcdc" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m-474.64543 3376.8768 76.89786-33.1456v-209.4804l29.16816-62.3138v-212.132l-17.23573-45.0781v-198.2108l-10.50672-10.5068h-107.11564v753.9907z" fill="#9f9f9f" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path class="map-wall" d="m-522.37513 3591.6605h47.7297v-975.1444h247.59786v-17.8987h-295.32756z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  </g>
+  <g id="stairs-training">
+    <path d="m-142.61013 3531.3354a84.437431 84.437431 0 0 1-52.12463 78.0101 84.437431 84.437431 0 0 1-92.01908-18.3038 84.437431 84.437431 0 0 1-18.30374-92.0191 84.437431 84.437431 0 0 1 78.01002-52.1246" fill="#e7e7e7" stop-color="#000000" stroke="#4a4a4a" stroke-width="4.6875"/>
+    <path d="m-227.04757 3437.8125h83.19553v93.523h-83.19553z" fill="#f8f8f8" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m-227.04757 3437.8125v93.523h83.19553" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="square" stroke-width="4.6875" style="font-variation-settings:normal"/>
+    <path d="m-227.04757 3437.8125h-92.63993v178.125h175.83546" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="square" stroke-width="4.6875" style="font-variation-settings:normal"/>
+    <path d="m-227.21572 3531.4645 72.04945 41.5977" fill="none" stop-color="#000000" stroke="#010101" stroke-linecap="square" stroke-width=".9375" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+    <path d="m-227.21572 3531.4645 72.04945 41.5977" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="round" stroke-width="4.6875" style="font-variation-settings:normal"/>
+    <path d="m-227.62166 3531.5733 41.59781 72.0494" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="round" stroke-width="4.6875" style="font-variation-settings:normal"/>
+    <path d="m-228.02761 3531.4645 6e-5 83.1955" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="round" stroke-width="4.6875" style="font-variation-settings:normal"/>
+    <path d="m-228.32477 3531.1673-41.5977 72.0495" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="round" stroke-width="4.6875" style="font-variation-settings:normal"/>
+    <path d="m-228.43352 3530.7614-72.04942 41.5978" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="round" stroke-width="4.6875" style="font-variation-settings:normal"/>
+    <path d="m-228.32475 3530.3555h-83.19553" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="round" stroke-width="4.6875" style="font-variation-settings:normal"/>
+    <path d="m-228.0276 3530.0583-72.04945-41.5977" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="round" stroke-width="4.6875" style="font-variation-settings:normal"/>
+    <path d="m-227.62167 3529.9495-41.5978-71.766" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="round" stroke-width="4.6875" style="font-variation-settings:normal"/>
+  </g>
+  <path id="baconee-wall" d="m1613.81 852.29781v54.39862h261.19v-54.39862h-39.3886v22.06917h-72.2872v-22.06917z" fill="#7d7d7d" stop-color="#000000" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  <path id="balconee" d="m1763.3242 906.69643v-54.39862h-398.6713l-101.5245-58.61519-128.6008-182.85599-59.6621-71.02635-310.62195-150.57587-193.45599-271.42831 19.83745-56.858623v-60.93747" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-width="4.6875" style="font-variation-settings:normal"/>
+  <path id="building-training" d="m-143.85204 2598.6174h-378.52309v1108.3409h378.52309" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="square" stroke-width="9.375" style="font-variation-settings:normal"/>
+  <path id="building-inner" d="m1875 1491.2323h-754.9939v1079.9306h-379.66304v367.0077h-356.46148v768.7877h1491.1184z" fill="#f1f1f1" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="square" stroke-width="4.6875" style="font-variation-settings:normal"/>
+  <path id="building" d="m768.03162 7.4741859e-6 739.62108 376.91317 367.3473 369.33703v2960.7081h-1875v-3706.9583z" fill="none" stop-color="#000000" stroke="#4a4a4a" stroke-linecap="square" stroke-width="9.375" style="font-variation-settings:normal"/>
+</g>

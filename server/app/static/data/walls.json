@@ -1,0 +1,83 @@
+[
+    {
+        "id": 2226,
+        "gym_id": 207,
+        "name": "Nose",
+        "floorplan_id": "1",
+        "order": 100,
+        "label_x": "0.078387",
+        "label_y": "0.291998"
+    },
+    {
+        "id": 2227,
+        "gym_id": 207,
+        "name": "Parkour",
+        "floorplan_id": "2",
+        "order": 100,
+        "label_x": "0.402074",
+        "label_y": "0.14015"
+    },
+    {
+        "id": 2228,
+        "gym_id": 207,
+        "name": "Spraywall",
+        "floorplan_id": "3",
+        "order": 100,
+        "label_x": "0.511941",
+        "label_y": "0.098507"
+    },
+    {
+        "id": 2229,
+        "gym_id": 207,
+        "name": "Tibet",
+        "floorplan_id": "4",
+        "order": 100,
+        "label_x": "0.450354",
+        "label_y": "0.401355"
+    },
+    {
+        "id": 2230,
+        "gym_id": 207,
+        "name": "Boomerang",
+        "floorplan_id": "5",
+        "order": 100,
+        "label_x": "0.301306",
+        "label_y": "0.214262"
+    },
+    {
+        "id": 2231,
+        "gym_id": 207,
+        "name": "Beast",
+        "floorplan_id": "6",
+        "order": 100,
+        "label_x": "0.268134",
+        "label_y": "0.455298"
+    },
+    {
+        "id": 2232,
+        "gym_id": 207,
+        "name": "Kids zone",
+        "floorplan_id": "7",
+        "order": 100,
+        "label_x": "0.012182",
+        "label_y": "0.799445"
+    },
+    {
+        "id": 2233,
+        "gym_id": 207,
+        "name": "Corner",
+        "floorplan_id": "8",
+        "order": 100,
+        "label_x": "0.159597",
+        "label_y": "0.625236"
+    },
+    {
+        "id": 2448,
+        "gym_id": 207,
+        "name": "Rockets zone",
+        "floorplan_id": "9",
+        "order": 100,
+        "label_x": "-0.178076",
+        "label_y": "0.800976"
+    }
+]

@@ -1,0 +1,10 @@
+#floor-plan {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 200px 3fr;
+    max-height: 100vh;
+}
+
+#route-list {
+    overflow-y: scroll;
+}

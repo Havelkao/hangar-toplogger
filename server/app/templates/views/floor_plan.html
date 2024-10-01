@@ -1,0 +1,65 @@
+{% if not g.htmx %}
+    {% extends 'layout/base.html' %}
+{% endif %} 
+
+{% block main %}
+
+
+<h1>Floor Plan</h1>
+
+
+<div id="floor-plan">
+    <div id="route-list">
+        <table>
+            <tr>
+                <!-- <th>id</th> -->
+                <th>grade</th>
+                <th>cgrade</th>
+                <th>diff.</th>
+                <th>est.</th>
+            </tr>
+            {% for climb in climbs %}
+            <tr>
+                <!-- <td>{{ climb.id }}</td> -->
+                <td>{{ climb.grade }}</td>
+                <td>{{ climb.c_grade }}</td>
+                <td>{{ (climb.grade) | round(2) }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
+    <!-- Main area 1875x3706 -->
+    <!-- Kids zone -521 from origin -->
+    <svg id="floor_plan" width="100%" height="100%" viewBox="0 0 1875 3706">
+        {% include 'hangar_floor_plan.svg' %}       
+        
+        {% for climb in climbs %}
+        <circle
+            cx="{{ climb.position_x * (1875 + 521) }}"
+            cy="{{ climb.position_y * 3706 }}"
+            r="25"
+            fill="{{ climb.color }}"
+            ></circle>
+        <text
+            x="{{ climb.position_x * (1875 + 521) }}"
+            y="{{ climb.position_y * 3706 }}"
+            fill="{{ climb.font_color }}"
+            text-anchor="middle"
+            font-size="20"
+            font-variant="small-caps"
+            style="user-select: none;";
+            dy="0.33rem">
+            {{ climb.grade_label }}
+        </text>
+        {% endfor %}
+    </svg>
+</div>
+
+<script>
+    svg = document.querySelector("#floor_plan");
+    viewBox = new ViewBox(svg);
+    viewBox.addWheelZoom();
+    viewBox.addPanning();
+</script>
+{% endblock main %}

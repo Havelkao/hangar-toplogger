@@ -1,0 +1,4 @@
+__pycache__
+env.cmd
+venv
+server/app/static/lib/
