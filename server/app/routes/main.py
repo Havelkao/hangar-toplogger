@@ -77,13 +77,13 @@ def stats():
     setters = []
     acc_s = Plot(figsize=(10, 6))
     acc_s.ax.set_ylabel("Setter Accuracy", **{"fontsize": 15, "fontweight": "bold"})
-    acc_s.ax.scatter(df_s["name"], df_s["accuracy"])
+    acc_s.ax.scatter(df_s["setter_name"], df_s["accuracy"])
     acc_s.ax.tick_params(axis="x", labelrotation=90)
     acc_s.ax.hlines(0, 0, len(df_s.index) - 1, linestyles="dashed", colors="black")
 
     count_s = Plot(figsize=(10, 6))
     count_s.ax.set_ylabel("# of Routes", **{"fontsize": 15, "fontweight": "bold"})
-    c_bar_s = count_s.ax.bar(data=df_s, x="name", height="count")
+    c_bar_s = count_s.ax.bar(data=df_s, x="setter_name", height="count")
     count_s.bar_labels(df_s["count"], c_bar_s)
     count_s.ax.tick_params(axis="x", labelrotation=90)
     count_s.remove_axis("y")
