@@ -14,16 +14,14 @@
             <tr>
                 <!-- <th>id</th> -->
                 <th>grade</th>
-                <th>cgrade</th>
-                <th>diff.</th>
+                <th>acc.</th>
                 <th>est.</th>
             </tr>
             {% for climb in climbs %}
             <tr>
                 <!-- <td>{{ climb.id }}</td> -->
-                <td>{{ climb.grade }}</td>
-                <td>{{ climb.c_grade }}</td>
-                <td>{{ (climb.grade) | round(2) }}</td>
+                <td>{{ climb.grade_label }}</td>
+                <td>{{ climb.accuracy }}</td>
             </tr>
             {% endfor %}
         </table>
