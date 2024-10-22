@@ -77,9 +77,10 @@ def stats():
     setters = []
     acc_s = Plot(figsize=(10, 6))
     acc_s.ax.set_ylabel("Setter Accuracy", **{"fontsize": 15, "fontweight": "bold"})
-    acc_s.ax.scatter(df_s["setter_name"], df_s["accuracy"])
+    acc_s.ax.bar(df_s["setter_name"], df_s["accuracy"], width=0.4)
     acc_s.ax.tick_params(axis="x", labelrotation=90)
     acc_s.ax.hlines(0, 0, len(df_s.index) - 1, linestyles="dashed", colors="black")
+    # acc_s.ax.bar(df_s["setter_name"], df_s["accuracy_abs"])
 
     count_s = Plot(figsize=(10, 6))
     count_s.ax.set_ylabel("# of Routes", **{"fontsize": 15, "fontweight": "bold"})
@@ -88,12 +89,7 @@ def stats():
     count_s.ax.tick_params(axis="x", labelrotation=90)
     count_s.remove_axis("y")
 
-    setters.extend(
-        [
-            count_s.encode,
-            acc_s.encode,
-        ]
-    )
+    setters.extend([count_s.encode, acc_s.encode])
 
     return render_template("views/stats.html", figs=figs, setters=setters, cards=cards)
 
