@@ -6,7 +6,6 @@
             "use": "@vercel/python"
         }
     ],
-    "buildCommand": "gunicorn main:app",
     "routes": [
         {
             "src": "/(.*)",
